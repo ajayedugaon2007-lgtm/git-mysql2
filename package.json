@@ -12,6 +12,15 @@
   "type": "commonjs",
   "dependencies": {
     "express": "^5.2.1",
+    "multer": "^2.0.2",
     "mysql2": "^3.18.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ajayedugaon2007-lgtm/git-mysql2.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ajayedugaon2007-lgtm/git-mysql2/issues"
+  },
+  "homepage": "https://github.com/ajayedugaon2007-lgtm/git-mysql2#readme"
 }
